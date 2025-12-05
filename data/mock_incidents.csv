@@ -1,0 +1,7 @@
+customer_company,incident_type,brand,model,solution,incident_date
+Company A,Network,Cisco,Catalyst 9000,"Reboot the switch and check cable connections.",2023-01-15
+Company A,Server,Dell,PowerEdge R740,"Update firmware to version 2.4.",2023-02-20
+Company B,Database,Oracle,Exadata,"Restart the listener service.",2023-03-10
+Company B,Network,Huawei,CloudEngine,"Check VLAN configuration.",2023-04-05
+Company C,Security,Palo Alto,PA-3200,"Update threat signature database.",2023-05-12
+Company A,Network,Cisco,Nexus 9000,"Verify BGP neighbor status.",2023-06-01
