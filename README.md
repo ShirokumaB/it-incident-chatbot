@@ -1,4 +1,4 @@
-# IT Incident Knowledge Base Chatbot (Portfolio Version)
+# IT Incident Knowledge Base Chatbot
 
 ## 📌 Project Overview
 This project is a **Retrieval-Augmented Generation (RAG) Chatbot** designed to assist IT engineers in resolving incidents efficiently. It acts as an intelligent interface that allows users to query a knowledge base of past incident logs using natural language.
