@@ -1,5 +1,9 @@
 # IT Incident Knowledge Base Chatbot
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://it-incident-chatbot-dlsmifm8yknw5wfhvzol7v.streamlit.app/)
+
+> **🔴 Live Demo:** [Click here to try the Chatbot](https://it-incident-chatbot-dlsmifm8yknw5wfhvzol7v.streamlit.app/)
+
 ## 📌 Project Overview
 This project is a **Retrieval-Augmented Generation (RAG) Chatbot** designed to assist IT engineers in resolving incidents efficiently. It acts as an intelligent interface that allows users to query a knowledge base of past incident logs using natural language.
 
